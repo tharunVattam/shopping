@@ -1,0 +1,259 @@
+[INFO ] 2022-10-11 14:36:42.356 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 4940 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 14:36:42.370 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 14:36:45.305 [main] ShoppingappApplication - Started ShoppingappApplication in 3.496 seconds (JVM running for 4.665)
+[ERROR] 2022-10-11 14:36:52.179 [http-nio-8989-exec-2] LoginServiceImpl - Incorrect Password
+[ERROR] 2022-10-11 14:37:15.059 [http-nio-8989-exec-5] LoginServiceImpl - Incorrect Password
+[INFO ] 2022-10-11 15:01:08.941 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 5164 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 15:01:08.955 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 15:01:11.622 [main] ShoppingappApplication - Started ShoppingappApplication in 3.187 seconds (JVM running for 4.307)
+[ERROR] 2022-10-11 15:01:19.855 [http-nio-8989-exec-4] LoginServiceImpl - Incorrect Password
+[INFO ] 2022-10-11 15:02:18.993 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 3968 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 15:02:19.006 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 15:02:21.645 [main] ShoppingappApplication - Started ShoppingappApplication in 3.187 seconds (JVM running for 4.298)
+[INFO ] 2022-10-11 15:03:48.348 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 14736 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 15:03:48.359 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 15:03:51.033 [main] ShoppingappApplication - Started ShoppingappApplication in 3.213 seconds (JVM running for 4.314)
+[ERROR] 2022-10-11 15:03:55.757 [http-nio-8989-exec-2] GlobalExceptionHandler - [Ljava.lang.StackTraceElement;@6edd22bc
+[INFO ] 2022-10-11 15:04:22.483 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 12812 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 15:04:22.496 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 15:04:25.262 [main] ShoppingappApplication - Started ShoppingappApplication in 3.345 seconds (JVM running for 4.5)
+[ERROR] 2022-10-11 15:04:32.769 [http-nio-8989-exec-2] GlobalExceptionHandler - java.lang.Exception: Incorrect Password
+[INFO ] 2022-10-11 15:08:20.748 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 728 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 15:08:20.759 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 15:08:23.482 [main] ShoppingappApplication - Started ShoppingappApplication in 3.259 seconds (JVM running for 4.364)
+[ERROR] 2022-10-11 15:08:29.254 [http-nio-8989-exec-1] GlobalExceptionHandler - java.lang.Exception: Incorrect Password
+[INFO ] 2022-10-11 15:10:01.175 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 14784 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 15:10:01.188 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 15:10:03.867 [main] ShoppingappApplication - Started ShoppingappApplication in 3.211 seconds (JVM running for 4.368)
+[INFO ] 2022-10-11 15:10:12.751 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 12736 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 15:10:12.762 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 15:10:15.406 [main] ShoppingappApplication - Started ShoppingappApplication in 3.164 seconds (JVM running for 4.236)
+[ERROR] 2022-10-11 15:10:18.946 [http-nio-8989-exec-2] GlobalExceptionHandler - Incorrect Password
+[INFO ] 2022-10-11 15:10:58.048 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 2256 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 15:10:58.059 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 15:11:00.707 [main] ShoppingappApplication - Started ShoppingappApplication in 3.188 seconds (JVM running for 4.265)
+[ERROR] 2022-10-11 15:11:25.618 [http-nio-8989-exec-3] GlobalExceptionHandler - Incorrect Password
+[INFO ] 2022-10-11 15:12:10.871 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 12328 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 15:12:10.882 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 15:12:13.507 [main] ShoppingappApplication - Started ShoppingappApplication in 3.152 seconds (JVM running for 4.26)
+[INFO ] 2022-10-11 15:47:10.890 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 5744 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 15:47:10.901 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 15:47:13.797 [main] ShoppingappApplication - Started ShoppingappApplication in 3.456 seconds (JVM running for 4.617)
+[ERROR] 2022-10-11 15:47:20.707 [http-nio-8989-exec-1] GlobalExceptionHandler - No value present
+[INFO ] 2022-10-11 16:00:13.154 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 12284 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 16:00:13.167 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 16:00:15.889 [main] ShoppingappApplication - Started ShoppingappApplication in 3.258 seconds (JVM running for 4.374)
+[INFO ] 2022-10-11 16:05:50.085 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 2068 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 16:05:50.095 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 16:05:52.805 [main] ShoppingappApplication - Started ShoppingappApplication in 3.239 seconds (JVM running for 4.356)
+[ERROR] 2022-10-11 16:06:16.979 [http-nio-8989-exec-3] GlobalExceptionHandler - Application error : java.lang.Exception: Incorrect Password
+[INFO ] 2022-10-11 16:06:56.211 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 11176 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 16:06:56.223 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 16:06:58.951 [main] ShoppingappApplication - Started ShoppingappApplication in 3.243 seconds (JVM running for 4.392)
+[ERROR] 2022-10-11 16:07:06.909 [http-nio-8989-exec-1] GlobalExceptionHandler - Application error : Incorrect Password
+[INFO ] 2022-10-11 16:08:06.007 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 13972 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 16:08:06.020 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 16:08:08.732 [main] ShoppingappApplication - Started ShoppingappApplication in 3.266 seconds (JVM running for 4.388)
+[ERROR] 2022-10-11 16:08:55.692 [http-nio-8989-exec-4] GlobalExceptionHandler - Application error : [Ljava.lang.StackTraceElement;@1fc2369a
+[INFO ] 2022-10-11 16:18:33.217 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 13820 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 16:18:33.236 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 16:18:35.874 [main] ShoppingappApplication - Started ShoppingappApplication in 3.17 seconds (JVM running for 4.274)
+[ERROR] 2022-10-11 16:18:44.696 [http-nio-8989-exec-2] LoginController - java.lang.Exception: Incorrect Password
+[INFO ] 2022-10-11 16:22:41.183 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 724 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)% - 
+[INFO ] 2022-10-11 16:22:41.197 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"% - 
+[INFO ] 2022-10-11 16:22:44.166 [main] ShoppingappApplication - Started ShoppingappApplication in 3.585 seconds (JVM running for 4.768)% - 
+[ERROR] 2022-10-11 16:22:49.653 [http-nio-8989-exec-1] LoginController - java.lang.Exception: Incorrect Password% - 
+[INFO ] 2022-10-11 16:25:55.774 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 12596 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 16:25:55.793 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 16:25:58.552 [main] ShoppingappApplication - Started ShoppingappApplication in 3.29 seconds (JVM running for 4.421)
+[ERROR] 2022-10-11 16:26:17.383 [http-nio-8989-exec-2] LoginController - e
+java.lang.Exception: Incorrect Password
+	at com.fse.shoppingapp.service.LoginServiceImpl.login(LoginServiceImpl.java:34) ~[classes/:?]
+	at com.fse.shoppingapp.controller.LoginController.login(LoginController.java:32) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681) ~[tomcat-embed-core-9.0.65.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.65.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+[INFO ] 2022-10-11 16:28:05.974 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 10192 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 16:28:05.986 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 16:28:08.751 [main] ShoppingappApplication - Started ShoppingappApplication in 3.283 seconds (JVM running for 4.392)
+[ERROR] 2022-10-11 16:28:12.315 [http-nio-8989-exec-2] LoginController - Application Exception : 
+[INFO ] 2022-10-11 16:29:42.548 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 4132 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 16:29:42.559 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 16:29:45.318 [main] ShoppingappApplication - Started ShoppingappApplication in 3.321 seconds (JVM running for 4.439)
+[ERROR] 2022-10-11 16:29:59.832 [http-nio-8989-exec-1] GlobalExceptionHandler - Application Exception : 
+java.lang.Exception: Incorrect Password
+	at com.fse.shoppingapp.service.LoginServiceImpl.login(LoginServiceImpl.java:34) ~[classes/:?]
+	at com.fse.shoppingapp.controller.LoginController.login(LoginController.java:31) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681) ~[tomcat-embed-core-9.0.65.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.65.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+[INFO ] 2022-10-11 16:50:57.137 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 11768 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 16:50:57.149 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 16:50:59.893 [main] ShoppingappApplication - Started ShoppingappApplication in 3.286 seconds (JVM running for 4.418)
+[INFO ] 2022-10-11 17:43:50.772 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 4736 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 17:43:50.783 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 17:46:05.194 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 13496 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 17:46:05.206 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 17:47:26.921 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 13844 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 17:47:26.933 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 17:47:29.558 [main] ShoppingappApplication - Started ShoppingappApplication in 3.133 seconds (JVM running for 4.232)
+[INFO ] 2022-10-11 17:50:10.356 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 10368 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 17:50:10.367 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 17:50:13.208 [main] ShoppingappApplication - Started ShoppingappApplication in 3.441 seconds (JVM running for 4.597)
+[INFO ] 2022-10-11 17:51:22.431 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 12644 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 17:51:22.450 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 17:51:25.400 [main] ShoppingappApplication - Started ShoppingappApplication in 3.504 seconds (JVM running for 4.674)
+[INFO ] 2022-10-11 17:56:51.601 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 12564 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 17:56:51.612 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 17:56:54.258 [main] ShoppingappApplication - Started ShoppingappApplication in 3.19 seconds (JVM running for 4.296)
+[INFO ] 2022-10-11 18:02:45.945 [main] ShoppingappApplication - Starting ShoppingappApplication using Java 11.0.12 on ctsjava1570 with PID 12844 (C:\Users\cogjava2589\Downloads\shoppingapp\target\classes started by cogjava2589 in C:\Users\cogjava2589\Downloads\shoppingapp)
+[INFO ] 2022-10-11 18:02:45.957 [main] ShoppingappApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-10-11 18:02:48.592 [main] ShoppingappApplication - Started ShoppingappApplication in 3.149 seconds (JVM running for 4.188)
+[ERROR] 2022-10-11 18:14:47.126 [http-nio-8989-exec-4] GlobalExceptionHandler - Application Exception : 
+java.lang.Exception: No product found with provided name
+	at com.fse.shoppingapp.service.ProductServiceImpl.updateProductStatus(ProductServiceImpl.java:54) ~[classes/:?]
+	at com.fse.shoppingapp.controller.ProductController.updateProductStatus(ProductController.java:37) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681) ~[tomcat-embed-core-9.0.65.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.65.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.65.jar:9.0.65]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
